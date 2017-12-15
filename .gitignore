@@ -1,0 +1,14 @@
+.DS_Store
+annie-thf.github.io/node_modules/
+annie-thf.github.io/dist/
+annie-thf.github.io/npm-debug.log*
+annie-thf.github.io/yarn-debug.log*
+annie-thf.github.io/yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
